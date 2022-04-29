@@ -39,7 +39,7 @@ img{
     width: 100%;
     border-radius: 15px;
 }
-@media (min-width:376px){
+@media (min-width:730px){
     .parent{
         width: 1440px;
         height: 800px;
